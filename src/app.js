@@ -1,6 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 
+// NOTE: error is not thrown when this import is commented out.
 import prettier from 'prettier'
 
 const App = (props) => {
